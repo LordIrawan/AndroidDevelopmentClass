@@ -53,7 +53,7 @@ fun showTugas() {
             verticalAlignment = Alignment.CenterVertically,
         ) {
             Surface(
-                color = Color(0xffDC052D),
+                color = Color(0xfffae105),
                 modifier = Modifier.size(surfaceWidth.dp, surfaceHeight.dp)
             ) {
                 Column(
@@ -62,19 +62,19 @@ fun showTugas() {
                     modifier = Modifier.fillMaxSize()
                 ) {
                     Image(
-                        painter = painterResource(id = R.drawable.munchen),
-                        contentDescription = "Bayern Munchen's Logo",
+                        painter = painterResource(id = R.drawable.sanji),
+                        contentDescription = "Bounty Sanji",
                         alignment = Alignment.Center,
                         modifier = Modifier.padding(8.dp)
                     )
                     Text(
-                        text = "Bayern Munchen",
+                        text = "Dead or Alive",
                         fontSize = 16.sp,
                         color = Color.White,
                         textAlign = TextAlign.Center
                     )
                     Text(
-                        text = "Bundes Liga",
+                        text = "330.000.000 Berry",
                         fontSize = 14.sp,
                         color = Color.White,
                         textAlign = TextAlign.Center
@@ -82,7 +82,7 @@ fun showTugas() {
                 }
             }
             Surface(
-                color = Color(0xff004170),
+                color = Color(0xff9e0803),
                 modifier = Modifier.size(surfaceWidth.dp, surfaceHeight.dp)
             ) {
                 Column(
@@ -91,19 +91,19 @@ fun showTugas() {
                     modifier = Modifier.fillMaxSize()
                 ) {
                     Image(
-                        painter = painterResource(id = R.drawable.psg),
-                        contentDescription = "PSG's Logo",
+                        painter = painterResource(id = R.drawable.luffy),
+                        contentDescription = "Bounty Luffy",
                         alignment = Alignment.Center,
                         modifier = Modifier.padding(8.dp)
                     )
                     Text(
-                        text = "PSG",
+                        text = "Dead or Alive",
                         fontSize = 16.sp,
                         color = Color.White,
                         textAlign = TextAlign.Center
                     )
                     Text(
-                        text = "Ligue 1",
+                        text = "3.000.000.000 Berry",
                         fontSize = 14.sp,
                         color = Color.White,
                         textAlign = TextAlign.Center
@@ -111,7 +111,7 @@ fun showTugas() {
                 }
             }
             Surface(
-                color = Color(0xffecf3fd),
+                color = Color(0xff0f6102),
                 modifier = Modifier.size(surfaceWidth.dp, surfaceHeight.dp)
             ) {
                 Column(
@@ -120,21 +120,21 @@ fun showTugas() {
                     modifier = Modifier.fillMaxSize()
                 ) {
                     Image(
-                        painter = painterResource(id = R.drawable.rma),
-                        contentDescription = "Real Madrid's Logo",
+                        painter = painterResource(id = R.drawable.zoro),
+                        contentDescription = "Bounty Zoro",
                         alignment = Alignment.Center,
                         modifier = Modifier.padding(12.dp)
                     )
                     Text(
-                        text = "Real Madrid",
+                        text = "Dead or Alive",
                         fontSize = 16.sp,
-                        color = Color.DarkGray,
+                        color = Color.White,
                         textAlign = TextAlign.Center
                     )
                     Text(
-                        text = "La Liga",
+                        text = "320.000.000 Berry",
                         fontSize = 14.sp,
-                        color = Color.DarkGray,
+                        color = Color.White,
                         textAlign = TextAlign.Center
                     )
                 }
@@ -144,7 +144,7 @@ fun showTugas() {
             verticalAlignment = Alignment.CenterVertically
         ) {
             Surface(
-                color = Color(0xff004D98),
+                color = Color(0xff9c6802),
                 modifier = Modifier.size(surfaceWidth.dp, surfaceHeight.dp)
             ) {
                 Column(
@@ -153,19 +153,19 @@ fun showTugas() {
                     modifier = Modifier.fillMaxSize()
                 ) {
                     Image(
-                        painter = painterResource(id = R.drawable.barca),
-                        contentDescription = "Barcelona's Logo",
+                        painter = painterResource(id = R.drawable.usop),
+                        contentDescription = "Bounty Usop",
                         alignment = Alignment.Center,
                         modifier = Modifier.padding(8.dp)
                     )
                     Text(
-                        text = "FC Barcelona",
+                        text = "Dead or Alive",
                         fontSize = 16.sp,
                         color = Color.White,
                         textAlign = TextAlign.Center
                     )
                     Text(
-                        text = "La Liga",
+                        text = "200.000.000 Berry",
                         fontSize = 14.sp,
                         color = Color.White,
                         textAlign = TextAlign.Center
@@ -173,7 +173,7 @@ fun showTugas() {
                 }
             }
             Surface(
-                color = Color(0xff6CABDD),
+                color = Color(0xff00186e),
                 modifier = Modifier.size(surfaceWidth.dp, surfaceHeight.dp)
             ) {
                 Column(
@@ -182,19 +182,19 @@ fun showTugas() {
                     modifier = Modifier.fillMaxSize()
                 ) {
                     Image(
-                        painter = painterResource(id = R.drawable.mancity),
-                        contentDescription = "Manchester City's Logo",
+                        painter = painterResource(id = R.drawable.franky),
+                        contentDescription = "Bounty Franky",
                         alignment = Alignment.Center,
                         modifier = Modifier.padding(8.dp)
                     )
                     Text(
-                        text = "Manchester City",
+                        text = "Dead or Alive",
                         fontSize = 16.sp,
                         color = Color.White,
                         textAlign = TextAlign.Center
                     )
                     Text(
-                        text = "EPL",
+                        text = "94.000.000 Berry",
                         fontSize = 14.sp,
                         color = Color.White,
                         textAlign = TextAlign.Center
@@ -202,7 +202,7 @@ fun showTugas() {
                 }
             }
             Surface(
-                color = Color(0xffDA291C),
+                color = Color(0xff022b20),
                 modifier = Modifier.size(surfaceWidth.dp, surfaceHeight.dp)
             ) {
                 Column(
@@ -211,19 +211,19 @@ fun showTugas() {
                     modifier = Modifier.fillMaxSize()
                 ) {
                     Image(
-                        painter = painterResource(id = R.drawable.mu),
-                        contentDescription = "Manchester United's Logo",
+                        painter = painterResource(id = R.drawable.brook),
+                        contentDescription = "Bounty Brook",
                         alignment = Alignment.Center,
                         modifier = Modifier.padding(8.dp)
                     )
                     Text(
-                        text = "Manchester United",
+                        text = "Dead or Alive",
                         fontSize = 16.sp,
                         color = Color.White,
                         textAlign = TextAlign.Center
                     )
                     Text(
-                        text = "EPL",
+                        text = "83.000.000 Berry",
                         fontSize = 14.sp,
                         color = Color.White,
                         textAlign = TextAlign.Center

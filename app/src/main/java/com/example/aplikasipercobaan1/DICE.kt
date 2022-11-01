@@ -16,18 +16,18 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 
-class DiceRoller : ComponentActivity() {
+class DICE : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            randomDadu()
+            randomDice()
         }
     }
 }
 
 @Preview(showBackground = true, showSystemUi = true)
 @Composable
-fun randomDadu() {
+fun randomDice() {
     Column(
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center,
