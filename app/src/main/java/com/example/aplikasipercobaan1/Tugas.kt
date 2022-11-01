@@ -111,7 +111,7 @@ fun showTugas() {
                 }
             }
             Surface(
-                color = Color(0xff0f6102),
+                color = Color(0xff018f22),
                 modifier = Modifier.size(surfaceWidth.dp, surfaceHeight.dp)
             ) {
                 Column(
@@ -173,7 +173,7 @@ fun showTugas() {
                 }
             }
             Surface(
-                color = Color(0xff00186e),
+                color = Color(0xff01388f),
                 modifier = Modifier.size(surfaceWidth.dp, surfaceHeight.dp)
             ) {
                 Column(
