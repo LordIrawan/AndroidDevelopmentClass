@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">aplikasiPercobaan1</string>
+    <string name="luffy">Monkey D Luffy</string>
+    <string name="luffychwan">Bounty 3.000.000.000 Berry</string>
+    <string name="zoro">Roronoa Zoro</string>
+    <string name="zorochwan">Bounty 320.000.000 Berry</string>
+    <string name="sanji">Vinsmoke Sanji</string>
+    <string name="sanjichwan">Bounty 330.000.000 Berry</string>
+    <string name="nami">Nami</string>
+    <string name="namichwan">Bounty 66.000.000 Berry</string>
+    <string name="chopper">Chopper</string>
+    <string name="chopperchwan">Bounty 100 Berry</string>
+    <string name="usop">God Usop</string>
+    <string name="bakausop">Bounty 200.000.000 Berry</string>
 </resources>
